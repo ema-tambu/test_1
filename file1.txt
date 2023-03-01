@@ -1,0 +1,3 @@
+int main(){
+	std::cout<<"\n\t Hello world" << std::endl;
+}
